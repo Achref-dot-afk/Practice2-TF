@@ -1,0 +1,5 @@
+projectId = "qwiklabs-gcp-03-c59565baaa5b"
+gcp_key = "./gcp_auth_key/qwiklabs-gcp-03-c59565baaa5b-f9cae171fcf2.json"
+region = "us-east1"
+zone = "us-east1-d"
+cluster_name = "testcluster"

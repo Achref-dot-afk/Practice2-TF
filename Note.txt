@@ -1,0 +1,2 @@
+In order to update the kubeconfig and authenticate with the cluster to interact with it after creating it you need to run :
+"gcloud clusters get-credentials [CLUSTER_NAME]" , also you should run this command on gcp shell when interacting with it .
